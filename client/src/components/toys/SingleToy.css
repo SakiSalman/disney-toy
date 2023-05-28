@@ -1,0 +1,9 @@
+.cardImg img {
+    width: 152px;
+    height: 152px;
+    object-fit: cover;
+    justify-content: center !important;
+    display: flex;
+    border-radius: 100%;
+    margin: 20px auto;
+}

@@ -1,0 +1,8 @@
+@media screen and (max-width: 768px) {
+    .toy_details_image {
+        width: 100% !important;
+    }
+    .toy_details_info {
+        width: 100% !important;
+    }
+}

@@ -1,0 +1,25 @@
+.tabContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.tabContainer button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  font-size: 16px;
+  background-color: #f1f1f1;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.tabContainer button:hover {
+  background-color: #ddd;
+}
+
+.tabContainer button.active {
+  background-color:#617A55;
+  color: #fff;
+}

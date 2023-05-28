@@ -1,0 +1,26 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  }
+  img {
+      width: 100%;
+  }
+  
+  form input:focus {
+      outline: none !important;
+      box-shadow: none !important;
+  }
+  
+  form.form_toy {
+      width: 50%;
+      margin: auto;
+  }
+  
+  form input {
+      border-radius: 4px !important;
+  }
+  
+  @media screen and (max-width: 768px) {
+      form.form_toy {
+          width: 100%;
+      }
+  }

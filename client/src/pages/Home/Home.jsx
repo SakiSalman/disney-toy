@@ -1,19 +1,25 @@
 import React from 'react'
-import Bannar from '../../component/Home/Bannar'
-import HowWorks from '../../component/Home/HowWorks'
-import Recipe from '../../component/Home/Recipe'
-import Chef from '../Chef/Chef'
-import Chefs from '../../component/Home/Chefs'
-const Home = () => {
- 
+import { Container } from 'react-bootstrap'
+import GallerySection from '../../components/GallerySection/GallerySection'
+import ShopByCategory from '../../components/SjopByCategory/ShopByCategory'
+import Banner from '../../components/Banner/Banner'
+import Testimonial from '../../components/Testimonial/Testimonial'
+import CustomTitle from '../../components/CustomTitle'
+
+function Home() {
   return (
-    <div>
-      <Bannar></Bannar>
-      <HowWorks></HowWorks>
-      <Chefs></Chefs>
-      <Recipe></Recipe>
-  
-    </div>
+
+    <>
+    <CustomTitle title={'Home'}></CustomTitle>
+     <Banner></Banner>
+     <Container>
+     
+     <ShopByCategory></ShopByCategory>
+     <GallerySection></GallerySection>
+     <Testimonial></Testimonial>
+   </Container>
+    </>
+   
   )
 }
 
