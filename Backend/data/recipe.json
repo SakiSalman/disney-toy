@@ -1,0 +1,1080 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      { "spaghetti pasta": "250g" },
+      { "bacon": "150g" },
+      { "eggs": "2" },
+      { "parmesan cheese": "50g" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" }
+    ],
+    "instructions": [
+      "Cook spaghetti pasta according to package instructions and drain.",
+      "Cut bacon into small pieces and cook until crispy in a large skillet over medium heat.",
+      "In a small bowl, whisk together eggs, parmesan cheese, salt, and black pepper.",
+      "Add cooked spaghetti to the skillet with the bacon and stir to combine.",
+      "Turn off the heat and pour the egg mixture over the spaghetti, stirring quickly to coat the pasta evenly.",
+      "Serve immediately with additional parmesan cheese and black pepper on top."
+    ],
+    "photo": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=1200:*",
+    "chef": {
+      "id": 1
+    }
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      { "spaghetti pasta": "250g" },
+      { "bacon": "150g" },
+      { "eggs": "2" },
+      { "parmesan cheese": "50g" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" }
+    ],
+    "instructions": [
+      "Cook spaghetti pasta according to package instructions and drain.",
+      "Cut bacon into small pieces and cook until crispy in a large skillet over medium heat.",
+      "In a small bowl, whisk together eggs, parmesan cheese, salt, and black pepper.",
+      "Add cooked spaghetti to the skillet with the bacon and stir to combine.",
+      "Turn off the heat and pour the egg mixture over the spaghetti, stirring quickly to coat the pasta evenly.",
+      "Serve immediately with additional parmesan cheese and black pepper on top."
+    ],
+    "photo": "https://img.jamieoliver.com/jamieoliver/recipe-database/oldImages/large/1571_2_1437661403.jpg?tr=w-800,h-800",
+    "chef": {
+      "id": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chicken Curry",
+    "ingredients": [
+      { "chicken breast": "500g" },
+      { "coconut milk": "400ml" },
+      { " onion": "1" },
+      { "garlic cloves": "2" },
+      { "ginger": "1 tbsp" },
+      { "curry powder": "2 tbsp" },
+      { " cumin": "1 tsp" },
+      { " coriander": "1 tsp" },
+      { "turmeric": "1 tsp" },
+      { " salt": "to taste" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Heat oil in a large saucepan or Dutch oven over medium-high heat.",
+      "Add chopped onion, garlic, and ginger and cook for 2-3 minutes until fragrant.",
+      "Add chicken breast and cook until browned on all sides.",
+      "Add curry powder, cumin, coriander, turmeric, and salt and stir to coat the chicken.",
+      "Pour in coconut milk and bring to a simmer.",
+      "Reduce heat to low and simmer for 20-25 minutes until chicken is cooked through and tender.",
+      "Serve hot with rice or naan bread."
+    ],
+    "photo": "https://zenaskitchen.com/wp-content/uploads/2022/01/Classic-Ratatouille.jpg",
+    "chef": {
+      "id": 4
+    }
+  },
+  {
+    "id": 4,
+    "name": "Roasted Beet Salad",
+    "ingredients": [
+      { "chicken breast": "500g" },
+      { "coconut milk": "400ml" },
+      { " onion": "1" },
+      { "garlic cloves": "2" },
+      { "ginger": "1 tbsp" },
+      { "curry powder": "2 tbsp" },
+      { " cumin": "1 tsp" },
+      { " coriander": "1 tsp" },
+      { "turmeric": "1 tsp" },
+      { " salt": "to taste" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Wash beets and wrap them in aluminum foil.",
+      "Place wrapped beets on a baking sheet and roast for 45-50 minutes or until tender.",
+      "Remove from oven, let cool, and peel off skin.",
+      "Cut beets into small pieces.",
+      "In a large bowl, toss mixed greens with olive oil, balsamic vinegar, salt, and black pepper.",
+      "Add roasted beets, goat cheese, and walnuts to the bowl and toss to combine.",
+      "Serve immediately."
+    ],
+    "photo": "https://publish.purewow.net/wp-content/uploads/sites/2/2020/04/ridiculously-slow-recipes-cat.jpg",
+    "chef": {
+      "id": 3
+    }
+  },
+  {
+    "id": 5,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://www.ocado.com/cmscontent/recipe_image_med/36683172.jpg?b0qg",
+    "chef": {
+      "id": 4
+    }
+  },
+  {
+    "id": 6,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 2
+    }
+  },
+  {
+    "id": 6,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://static.toiimg.com/thumb/88271804.cms?width=573&height=382&imgsize=110650",
+    "chef": {
+      "id": 5
+    }
+  },
+  {
+    "id": 7,
+    "name": "Roasted Beet Salad",
+    "ingredients": [
+      { "chicken breast": "500g" },
+      { "coconut milk": "400ml" },
+      { " onion": "1" },
+      { "garlic cloves": "2" },
+      { "ginger": "1 tbsp" },
+      { "curry powder": "2 tbsp" },
+      { " cumin": "1 tsp" },
+      { " coriander": "1 tsp" },
+      { "turmeric": "1 tsp" },
+      { " salt": "to taste" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Preheat oven to 400°F.",
+      "Wash beets and wrap them in aluminum foil.",
+      "Place wrapped beets on a baking sheet and roast for 45-50 minutes or until tender.",
+      "Remove from oven, let cool, and peel off skin.",
+      "Cut beets into small pieces.",
+      "In a large bowl, toss mixed greens with olive oil, balsamic vinegar, salt, and black pepper.",
+      "Add roasted beets, goat cheese, and walnuts to the bowl and toss to combine.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVz2qY7q8BCou1ZSoXJN-L-AeIc7673h6g8Q&usqp=CAU",
+    "chef": {
+      "id": 5
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Cake",
+    "ingredients": [
+      { "flour": "2 cups" },
+      { "sugar": "2 cups" },
+      { "cocoa powder": "¾ cup" },
+      { "baking powder": "2 tsp" },
+      { "baking soda": "2 tsp" },
+      { "salt": "1 tsp" },
+      { "eggs": "2" },
+      { "milk": "1 cup" },
+      { "vegetable oil": "½ cup" },
+      { "vanilla extract": "2 tsp" },
+      { "boiling water": "1 cup" }
+    ],
+    "instructions": [
+      "Preheat oven to 350°F. Grease and flour two 9-inch round baking pans.",
+      "In a large mixing bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt.",
+      "Add eggs, milk, vegetable oil, and vanilla extract to the bowl and mix well.",
+      "Stir in boiling water to the mixture. The batter will be thin.",
+      "Pour the batter evenly into the two prepared pans.",
+      "Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
+      "Remove from the oven and let cool in pans for 10 minutes.",
+      "Remove cakes from pans and let them cool completely on a wire rack.",
+      "Frost with your favorite frosting and decorate as desired."
+    ],
+    "photo": "https://assets.bonappetit.com/photos/644819df047251c7e5ee250b/4:3/w_1600%2Ch_1200%2Cc_limit/042523-green-papaya-salad-lede.jpg",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 9,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg",
+    "chef": {
+      "id": 5
+    }
+  },
+  {
+    "id": 10,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 2
+    }
+  },
+  {
+    "id": 11,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg?resize=1200:*",
+    "chef": {
+      "id": 3
+    }
+  },
+  {
+    "id": 12,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 2
+    }
+  },
+  {
+    "id": 13,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 1
+    }
+  },
+  {
+    "id": 14,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 3
+    }
+  },
+  {
+    "id": 15,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg",
+    "chef": {
+      "id": 5
+    }
+  },
+  {
+    "id": 16,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 4
+    }
+  },
+  {
+    "id": 17,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 2
+    }
+  },
+  {
+    "id": 18,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg?resize=1200:*",
+    "chef": {
+      "id": 3
+    }
+  },
+  {
+    "id": 19,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 2
+    }
+  },
+  {
+    "id": 20,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 1
+    }
+  },
+  {
+    "id": 21,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 3
+    }
+  },
+  {
+    "id": 22,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg",
+    "chef": {
+      "id": 5
+    }
+  },
+  {
+    "id": 23,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 4
+    }
+  },
+
+  {
+    "id": 24,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 25,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg?resize=1200:*",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 26,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 27,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 28,
+    "name": "Beef Stew",
+    "ingredients": [
+      { "beef chuck roast": "2 lbs" },
+      { " potatoes": "4" },
+      { " carrots": "4" },
+      { " onion": "1" },
+      { "garlic cloves": "4" },
+      { "tomato paste": "2 tbsp" },
+      { "beef broth": "4 cups" },
+      { "thyme": "1 tsp" },
+      { "rosemary": "1 tsp" },
+      { " salt": "to taste" },
+      { "black pepper": "to taste" },
+      { " flour": "1/4 cup" },
+      { "oil": "2 tbsp" }
+    ],
+    "instructions": [
+      "Cut beef chuck roast into cubes and season with salt and black pepper.",
+      "Dredge the beef in flour, shaking off any excess.",
+      "Heat oil in a large Dutch oven over medium-high heat.",
+      "Add beef and cook until browned on all sides.",
+      "Remove beef from the pot and set aside.",
+      "Add chopped onion and garlic to the pot and cook until translucent.",
+      "Stir in tomato paste, thyme, and rosemary and cook for 1-2 minutes.",
+      "Add beef broth and bring to a simmer.",
+      "Return beef to the pot and add diced potatoes and carrots.",
+      "Simmer for 1-2 hours or until beef and vegetables are tender.",
+      "Serve hot."
+    ],
+    "photo": "https://tastesbetterfromscratch.com/wp-content/uploads/2021/01/Pozole-Thumbnail-2-500x375.jpg",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 29,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      { "spaghetti": "1 lb" },
+      { "ground beef": "1 lb" },
+      { "olive oil": "2 tbsp" },
+      { "onion": "1, chopped" },
+      { "garlic cloves": "2, minced" },
+      { "carrots": "2, chopped" },
+      { "celery stalks": "2, chopped" },
+      { "canned tomatoes": "28 oz" },
+      { "tomato paste": "2 tbsp" },
+      { "red wine": "1 cup" },
+      { "beef broth": "1 cup" },
+      { "dried oregano": "1 tsp" },
+      { "dried basil": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "parmesan cheese": "grated, for serving" }
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "In a large pot or Dutch oven, heat olive oil over medium-high heat.",
+      "Add onion, garlic, carrots, and celery and cook until soft, about 5 minutes.",
+      "Add ground beef and cook until browned, breaking up any large clumps with a spoon.",
+      "Add canned tomatoes, tomato paste, red wine, beef broth, oregano, basil, salt, and black pepper to the pot.",
+      "Bring to a simmer, then reduce heat to low and let simmer for 1 hour, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti and top with grated parmesan cheese."
+    ],
+    "photo": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/british_shakshuka_26737_16x9.jpg",
+    "chef": {
+      "id": 6
+    }
+  },
+  {
+    "id": 30,
+    "name": "Veggie Burger",
+    "ingredients": [
+      { "chickpeas": "1 can, drained and rinsed" },
+      { "cooked brown rice": "1 cup" },
+      { "onion": "½, diced" },
+      { "garlic clove": "1, minced" },
+      { "carrot": "1, grated" },
+      { "red bell pepper": "1, diced" },
+      { "bread crumbs": "1 cup" },
+      { "egg": "1" },
+      { "cumin": "1 tsp" },
+      { "coriander": "1 tsp" },
+      { "paprika": "1 tsp" },
+      { "salt": "to taste" },
+      { "black pepper": "to taste" },
+      { "olive oil": "2 tbsp" },
+      { "hamburger buns": "4" },
+      { "lettuce": "4 leaves" },
+      { "tomato": "4 slices" },
+      { "mayonnaise": "4 tbsp" }
+    ],
+    "instructions": [
+      "In a large mixing bowl, mash chickpeas with a fork or potato masher.",
+      "Add cooked brown rice, diced onion, minced garlic, grated carrot, diced red bell pepper, bread crumbs, egg, cumin, coriander, paprika, salt, and black pepper to the bowl.",
+      "Mix well until all ingredients are combined.",
+      "Form mixture into 4 patties.",
+      "Heat olive oil in a large skillet over medium-high heat.",
+      "Cook patties for 4-5 minutes per side or until golden brown and crispy.",
+      "Assemble burgers by placing a veggie patty on a hamburger bun, topped with lettuce, tomato, and mayonnaise.",
+      "Serve immediately."
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzmFLczUvEiRd_rWLs3F2cDQkkzpzLyDyIQ&usqp=CAU",
+    "chef": {
+      "id": 6
+    }
+  }
+]

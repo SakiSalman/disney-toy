@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.button {
+    color: #f7f5f5;
+    background-color: #000;
+    border: 1px solid transparent;
+    padding : 15px 42px;
+    transition: .3s ease;
+}
+.button:hover {
+    color: #ffffff;
+    background-color: #000000 !important;
+}
+
+.bg-light-green{
+    background-color: #f0faf0;
+}
+.bg-dark-green{
+    background-color: #fbfbf4fc;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+.active-link{
+    color: red !important;
+}
+/* Home Bannr */
+.home-bannr{
+    height: 100vh;
+    background-color: #fff7eb;
+}
+.home-bannr h3 {
+        font-size: 40px;
+        position: relative;
+        display: inline-block;
+        text-transform: uppercase;
+        padding: 0px 6px;
+        z-index: 1;
+        color: #d70606bb;
+    }
+.home-bannr h1 {
+    margin-top: 20px;
+    font-size: 70px;
+    text-transform: uppercase;
+    font-weight: 700;
+    height: 160px;
+    }
+.home-bannr p  {
+        font-size: 30px;
+        padding-top: 22px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+.home-bannr button  {
+   
+        background-color: #EB0029;
+        color: #ffffff;
+        border: none;        
+        outline: none;
+        padding: 10px 30px;
+        position: relative;
+        display: inline-block;
+        overflow: hidden;
+        font-size: 22px;
+        font-family: "Poppins";
+        text-transform: capitalize;
+        transition: 0.5s ease-in-out;
+        z-index: 1111;
+    
+}
+
+.register-page{
+    height: 87vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.recipe-card {
+    cursor : pointer;
+    transition : '.5s ease'
+}
+.recipe-card a.view-recipe-btn {
+    display: none;
+    transition : '.5s ease'
+}
+.recipe-card:hover a.view-recipe-btn {
+    display: block !important;
+    transition : '.5s ease'
+}
+
+section.datails-bannar{
+    min-height: 250px;
+    background-color: #fff7eb;
+    text-align: center;
+    padding: 80px 0px;
+    
+}
+.instraction{
+    width: 100%;
+    background-color: #ffff;
+    display: flex;
+    justify-content: flex-start;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+.instraction .counter{
+    height: 100%;
+    min-height: 80px;
+}
+.instraction .counter span{
+   width: 60px;
+   height: 60px;
+   background-color:#f3bf71 ;
+   display: inline-block;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 35px;
+}
+.instaction-content{
+    background-color: #fff;
+    padding:5px 30px 5px 10px;
+}
+.login-section{
+    height: 87vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-wrapper,.sign-up-wrapper{
+    width: 400px;
+    margin: auto;
+}
+/* respionsive css */
+@media only screen and (max-width: 650px) {
+    .home-bannr h3 {
+        font-size: 21px;
+       
+    }
+    .home-bannr h1 {
+        font-size: 33px;
+        height: 81px;
+    }
+    .home-bannr p {
+        font-size: 17px;
+        padding-top: 3px;
+     
+    }
+    .login-wrapper,.sign-up-wrapper{
+        width: 100%;
+    }
+  }
+

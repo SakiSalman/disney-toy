@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "description" : "A chef who specializes in preparing and serving large quantities of food for events such as weddings, corporate parties, or banquets.",
+      "name": "Giada De Laurentiis",
+      "years_of_experience": 20,
+      "num_recipes": 500,
+      "likes": 10000,
+      "view_recipes_button": "https://example.com/giada-recipes/",
+      "image": "https://images.getbento.com/accounts/2cbc087d05c4ced7d9383da866534d90/media/images/67648THESTUDY_0059.jpg?w=1200&fit=crop&auto=compress,format&crop=focalpoint&fp-x=0.5&fp-y=0.5"
+    },
+    {
+      "id": 2,
+      "description" : "A chef who works for an individual or family, preparing meals in a private home or for special events.",
+      "name": "Gordon Ramsay",
+      "years_of_experience": 30,
+      "num_recipes": 300,
+      "likes": 15000,
+      "view_recipes_button": "https://example.com/ramsay-recipes/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSx6G02Enq5EFSxX8qeQwYsZIuSh0Qu6mpQ&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "description" : "A chef who has gained fame and recognition for their culinary skills, often through television shows, cookbooks, or restaurants.",
+      "name": "Ina Garten",
+      "years_of_experience": 25,
+      "num_recipes": 400,
+      "likes": 12000,
+      "view_recipes_button": "https://example.com/ina-recipes/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU_cURMmcVs5jBujMcLr1fQsSf1_NUMXdHQ&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "description" : "The second in command in a kitchen, responsible for supervising the staff, managing inventory, and assisting with food preparation.",
+      "name": "Jamie Oliver",
+      "years_of_experience": 25,
+      "num_recipes": 350,
+      "likes": 11000,
+      "view_recipes_button": "https://example.com/jamie-recipes/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3VN6hvY3Kc-tU7Cdc6N-Hz3ScL7BUOTW1Q&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "description" : "A chef who specializes in making desserts, pastries, and baked goods, often working in a bakery or patisserie.",
+      "name": "Nigella Lawson",
+      "years_of_experience": 20,
+      "num_recipes": 250,
+      "likes": 9000,
+      "view_recipes_button": "https://example.com/nigella-recipes/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9y5cbHs5s-Qw1II_C8Yh4WMvpeKhNm3KUQQ&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "description" : "The head chef in a restaurant who oversees the kitchen operations, menu planning, and food preparation.",
+      "name": "Bobby Flay",
+      "years_of_experience": 25,
+      "num_recipes": 300,
+      "likes": 13000,
+      "view_recipes_button": "https://example.com/bobby-recipes/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLK8ICcmkKZiUWDR6NEX0c0htL9RTtZTHcyg&usqp=CAU"
+    }
+]
